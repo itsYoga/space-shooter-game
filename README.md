@@ -6,11 +6,11 @@ A Flutter-based space shooting game with beautiful visual effects and engaging g
 
 ## Screenshots / 遊戲截圖
 
-<div align="center">
-  <img src="assets/screenshots/Home.png" width="30%" alt="Home Screen">
-  <img src="assets/screenshots/Gameplay.png" width="30%" alt="Gameplay">
-  <img src="assets/screenshots/Score.png" width="30%" alt="Score Screen">
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsYoga/space-shooter-game/main/assets/screenshots/Home.png" width="30%" alt="Home Screen">
+  <img src="https://raw.githubusercontent.com/itsYoga/space-shooter-game/main/assets/screenshots/Gameplay.png" width="30%" alt="Gameplay">
+  <img src="https://raw.githubusercontent.com/itsYoga/space-shooter-game/main/assets/screenshots/Score.png" width="30%" alt="Score Screen">
+</p>
 
 ## Features / 特點
 
@@ -32,7 +32,7 @@ A Flutter-based space shooting game with beautiful visual effects and engaging g
 
 1. Clone the repository / 克隆儲存庫
 ```bash
-git clone [repository-url]
+git clone https://github.com/itsYoga/space-shooter-game.git
 ```
 
 2. Navigate to the project directory / 進入專案目錄
