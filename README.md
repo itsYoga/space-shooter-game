@@ -4,6 +4,14 @@ A Flutter-based space shooting game with beautiful visual effects and engaging g
 
 一個基於 Flutter 的太空射擊遊戲，具有精美的視覺效果和引人入勝的遊戲玩法。
 
+## Screenshots / 遊戲截圖
+
+<div align="center">
+  <img src="assets/screenshots/Home.png" width="30%" alt="Home Screen">
+  <img src="assets/screenshots/Gameplay.png" width="30%" alt="Gameplay">
+  <img src="assets/screenshots/Score.png" width="30%" alt="Score Screen">
+</div>
+
 ## Features / 特點
 
 - Beautiful starfield background / 美麗的星空背景
